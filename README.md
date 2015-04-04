@@ -1,2 +1,2 @@
-# dc_motor_control
-microcode for control of DC motors
+# DCMotor as Stepper
+Microcode to control a DC Motor as if it were a stepper motor.
